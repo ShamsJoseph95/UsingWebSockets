@@ -1,0 +1,42 @@
+C:\Users\wahlind\Dropbox\Chapter 6 ASP.net - Web sockets\WebSockets\bin\WebSockets.dll
+C:\Users\wahlind\Dropbox\Chapter 6 ASP.net - Web sockets\WebSockets\bin\WebSockets.pdb
+C:\Users\wahlind\Dropbox\Chapter 6 ASP.net - Web sockets\WebSockets\bin\Microsoft.WebSockets.dll
+C:\Users\wahlind\Dropbox\Chapter 6 ASP.net - Web sockets\WebSockets\obj\Debug\WebSockets.dll
+C:\Users\wahlind\Dropbox\Chapter 6 ASP.net - Web sockets\WebSockets\obj\Debug\WebSockets.pdb
+\\Wahlind-i7\d\Wahlin Group\Courses\PluralSight\ASP.NET 4.5\Module3\Code\Before\UsingWebSockets\WebSockets\bin\WebSockets.dll
+\\Wahlind-i7\d\Wahlin Group\Courses\PluralSight\ASP.NET 4.5\Module3\Code\Before\UsingWebSockets\WebSockets\bin\WebSockets.pdb
+\\Wahlind-i7\d\Wahlin Group\Courses\PluralSight\ASP.NET 4.5\Module3\Code\Before\UsingWebSockets\WebSockets\obj\Debug\UsingWebSockets.csprojResolveAssemblyReference.cache
+\\Wahlind-i7\d\Wahlin Group\Courses\PluralSight\ASP.NET 4.5\Module3\Code\Before\UsingWebSockets\WebSockets\obj\Debug\WebSockets.dll
+\\Wahlind-i7\d\Wahlin Group\Courses\PluralSight\ASP.NET 4.5\Module3\Code\Before\UsingWebSockets\WebSockets\obj\Debug\WebSockets.pdb
+\\Wahlind-i7\d\Wahlin Group\Courses\PluralSight\ASP.NET 4.5\Module3\Code\Before\UsingWebSockets\WebSockets\bin\Microsoft.WebSockets.dll
+C:\Users\Joseph Shams\Desktop\WebSockets\bin\WebSockets.dll
+C:\Users\Joseph Shams\Desktop\WebSockets\bin\WebSockets.pdb
+C:\Users\Joseph Shams\Desktop\WebSockets\obj\Debug\UsingWebSockets.csprojResolveAssemblyReference.cache
+C:\Users\Joseph Shams\Desktop\WebSockets\obj\Debug\WebSockets.dll
+C:\Users\Joseph Shams\Desktop\WebSockets\obj\Debug\WebSockets.pdb
+C:\Users\Joseph Shams\Desktop\UsingWebSockets\WebSockets\bin\WebSockets.dll
+C:\Users\Joseph Shams\Desktop\UsingWebSockets\WebSockets\bin\WebSockets.pdb
+C:\Users\Joseph Shams\Desktop\UsingWebSockets\WebSockets\bin\Microsoft.WebSockets.dll
+C:\Users\Joseph Shams\Desktop\UsingWebSockets\WebSockets\obj\Debug\UsingWebSockets.csprojResolveAssemblyReference.cache
+C:\Users\Joseph Shams\Desktop\UsingWebSockets\WebSockets\obj\Debug\WebSockets.dll
+C:\Users\Joseph Shams\Desktop\UsingWebSockets\WebSockets\obj\Debug\WebSockets.pdb
+C:\Users\Joseph Shams\Desktop\Websocket s and AngularJS Search\WebSockets\bin\WebSockets.dll
+C:\Users\Joseph Shams\Desktop\Websocket s and AngularJS Search\WebSockets\bin\WebSockets.pdb
+C:\Users\Joseph Shams\Desktop\Websocket s and AngularJS Search\WebSockets\bin\Microsoft.WebSockets.dll
+C:\Users\Joseph Shams\Desktop\Websocket s and AngularJS Search\WebSockets\obj\Debug\UsingWebSockets.csprojResolveAssemblyReference.cache
+C:\Users\Joseph Shams\Desktop\Websocket s and AngularJS Search\WebSockets\obj\Debug\WebSockets.dll
+C:\Users\Joseph Shams\Desktop\Websocket s and AngularJS Search\WebSockets\obj\Debug\WebSockets.pdb
+C:\Users\Joseph Shams\Google Drive\Development\Websockets and AngularJS Search\WebSockets\bin\UsingWebSockets.dll
+C:\Users\Joseph Shams\Google Drive\Development\Websockets and AngularJS Search\WebSockets\bin\UsingWebSockets.pdb
+C:\Users\Joseph Shams\Google Drive\Development\Websockets and AngularJS Search\WebSockets\bin\Microsoft.WebSockets.dll
+C:\Users\Joseph Shams\Google Drive\Development\Websockets and AngularJS Search\WebSockets\obj\Debug\UsingWebSockets.dll
+C:\Users\Joseph Shams\Google Drive\Development\Websockets and AngularJS Search\WebSockets\obj\Debug\UsingWebSockets.pdb
+C:\Users\Joseph Shams\Google Drive\Development\Websockets and AngularJS Search\WebSockets\obj\Debug\UsingWebSockets.csprojResolveAssemblyReference.cache
+C:\Users\Joseph Shams\Google Drive\Development\UsingWebSockets\WebSockets\bin\UsingWebSockets.dll
+C:\Users\Joseph Shams\Google Drive\Development\UsingWebSockets\WebSockets\bin\UsingWebSockets.pdb
+C:\Users\Joseph Shams\Google Drive\Development\UsingWebSockets\WebSockets\bin\Microsoft.WebSockets.dll
+C:\Users\Joseph Shams\Google Drive\Development\UsingWebSockets\WebSockets\obj\Debug\UsingWebSockets.csprojResolveAssemblyReference.cache
+C:\Users\Joseph Shams\Google Drive\Development\UsingWebSockets\WebSockets\obj\Debug\UsingWebSockets.dll
+C:\Users\Joseph Shams\Google Drive\Development\UsingWebSockets\WebSockets\obj\Debug\UsingWebSockets.pdb
+C:\Users\Joseph Shams\Google Drive\Development\UsingWebSockets\WebSockets\bin\Newtonsoft.Json.dll
+C:\Users\Joseph Shams\Google Drive\Development\UsingWebSockets\WebSockets\bin\Newtonsoft.Json.xml

@@ -1,0 +1,71 @@
+﻿<!doctype html>
+<html>
+<head>
+    <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.11.2.min.js"></script>
+    <script src="Scripts/angular.js"></script>
+    <script type="text/javascript">
+        var ws;
+
+        function $(id) {
+            return document.getElementById(id);
+        }
+
+        function wireEvents() {
+            $("close").addEventListener("click", function () {
+                ws.close();
+            });
+        }
+
+        function createSpan(text) {
+            var span = document.createElement("span");
+            span.innerHTML = text + "<br />";
+            return span;
+        }
+
+        getNames = function () {
+
+                wireEvents();
+                var conversation = $("conversation");
+                var url = "ws://localhost:5707/WebSocketsServer.ashx";
+                ws = new WebSocket(url);
+
+                ws.onerror = function (e) {
+                    conversation.appendChild(createSpan("Problem with connection: " + e.message));
+                };
+
+                ws.onopen = function () {
+                    //Stub;
+                };
+
+                ws.onmessage = function (e) {
+                    var ed = e.data.toString();
+                    conversation.appendChild(createSpan(e.data.toString()));
+                    alert(ed);
+                };
+
+                ws.onclose = function () {
+                    conversation.innerHTML = "disconnected.<br/><hr/>";
+                };
+        }
+    </script>
+    <title>WebSockets</title>
+</head>
+<body>
+    <h1>WebSockets</h1>
+    <input id="open" type="button" value="Open Connection" onclick="getNames();" />
+    <input id="close" type="button" value="Close Connection" />
+    <br />
+    <div id="conversation"></div>
+    <!--div ng-init="friends = [{name:'John'},{name:'Mary'},{name:'Mike'},{name:'Adam'},{name:'Julie'},{name:'Juliette'}]"></div-->
+    <input ng-model="searchText" placeholder="Enter Search Criteria" class="searchBox">
+    <table id="searchTextResults">
+        <tr>
+            <th>Name</th>
+        </tr>
+        <tr ng-repeat="friend in friends | filter:searchText">
+            <td>{{friend.name}}
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
